@@ -1,36 +1,27 @@
 class Solution {
-  public int findMin(int[] nums) {
-    int s = 0;
-    int e = nums.length - 1;
+  
+    public int findMin(int[] nums) {
 
-    // If the array is not rotated (already sorted), return the first element
-    if (nums[s] <= nums[e]) {
-        return nums[s];
-    }
+        int n = nums.length;
 
-    while (s <= e) {
-        int mid = s + (e - s) / 2;
+        int low = 0;
+        int high = n-1;
+        if(nums[low] <= nums[high])
+        return nums[0];
 
-        // Check if mid is the smallest element
-        if (mid > 0 && nums[mid] < nums[mid - 1]) {
-            return nums[mid];
+        while(low <= high){
+
+            int mid = (low + high)/2;
+
+            if(nums[mid] > nums[mid+1])
+            return nums[mid+1];
+
+            else if(nums[low] <= nums[mid] )
+            low = mid+1;
+
+            else
+            high = mid-1;
         }
-
-        // Check if mid+1 is the smallest element
-        if (mid < nums.length - 1 && nums[mid] > nums[mid + 1]) {
-            return nums[mid + 1];
-        }
-
-        // Decide whether to search left half or right half
-        if (nums[mid] > nums[e]) {
-            // Minimum is in the right half
-            s = mid + 1;
-        } else {
-            // Minimum is in the left half
-            e = mid - 1;
-        }
-    }
-
     return -1; // This shouldn't be reached for a valid rotated sorted array
 }
 
