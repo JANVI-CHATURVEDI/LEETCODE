@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Enumeration
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
