@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0056-merge-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
