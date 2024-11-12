@@ -5,7 +5,7 @@ class Solution {
     for(int i=0;i<n;i++){
         count[nums[i]]++;
     }
-     for(int i=1;i<n+1;i++){
+     for(int i=0;i<n+1;i++){
        if( count[i] ==0){
           return i;
        }
