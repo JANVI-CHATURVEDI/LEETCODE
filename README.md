@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
@@ -92,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
