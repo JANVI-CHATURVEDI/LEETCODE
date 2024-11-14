@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## String
