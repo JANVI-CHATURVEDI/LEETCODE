@@ -6,10 +6,8 @@ class Solution {
        for(int i=0;i<n;i++){
         if(nums[i]==1){
             count++;
-            if(maxcount<count){
-            maxcount=count;
+                maxcount = Math.max(maxcount, count);
 
-        }
         }
        
         else 
