@@ -11,3 +11,14 @@ class Solution {
         
     }
 }
+
+
+/*                  Input: " hello world "
+
+trim() removes leading and trailing spaces: "hello world".
+split("\\s+") splits the string into words by one or more spaces: ["hello", "world"].
+Traverse ["hello", "world"] in reverse:
+Append world → "world".
+Append a space → "world ".
+Append hello → "world hello".
+Output: "world hello"                            */
