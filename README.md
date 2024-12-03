@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 ## Simulation
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
