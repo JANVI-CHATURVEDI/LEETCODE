@@ -49,21 +49,18 @@ class Main {
 class Solution {
     // Function to return a list containing the union of the two arrays.
     public static ArrayList<Integer> findUnion(int a[], int b[]) {
+        // Using TreeSet to maintain sorted order and remove duplicates
+        TreeSet<Integer> set = new TreeSet<>();
         
-        int n=a.length;
-        int m=b.length;
-      HashSet<Integer> set = new HashSet<>();
-      for(int i=0;i<n;i++){
-          set.add(a[i]);
-      }
-       for(int i=0;i<m;i++){
-         
-              set.add(b[i]);
-       
-          
-          
-      }  ArrayList<Integer> resultList = new ArrayList<>(set);
-      Collections.sort(resultList);
-       return resultList;
+        // Adding elements of both arrays to the TreeSet
+        for (int num : a) {
+            set.add(num);
+        }
+        for (int num : b) {
+            set.add(num);
+        }
+        
+        // Converting the TreeSet into an ArrayList
+        return new ArrayList<>(set);
     }
 }
