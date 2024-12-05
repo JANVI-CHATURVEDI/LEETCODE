@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
