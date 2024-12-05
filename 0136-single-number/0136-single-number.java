@@ -1,16 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-        
+        int result = 0; // Initialize result to 0
         for (int num : nums) {
-            if (set.contains(num)) {
-                set.remove(num);
-            } else {
-                set.add(num);
-            }
+            result ^= num; // XOR each number with result
         }
-        
-        // The only element left in the set is the single number
-        return set.iterator().next();
+        return result; // The single number remains
     }
 }
