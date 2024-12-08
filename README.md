@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
