@@ -1,6 +1,32 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int n = s.length();
+        int maxLength = 0;
+        int[] arr = new int[128];  // Frequency array
+        int left = 0;  // Left pointer
+
+        for (int right = 0; right < s.length(); right++) {
+            char c = s.charAt(right);
+            
+            // If duplicate found, move left pointer
+            while (arr[c] > 0) {
+                arr[s.charAt(left)]--;  
+                left++;  
+            }
+
+            arr[c]++;  // Mark character as seen
+            maxLength = Math.max(maxLength, right - left + 1);
+        }
+
+        return maxLength;
+
+       
+       
+       
+       
+       
+       /*   BRUTE FORCE
+       
+       int n = s.length();
         int maxLength = 0;
 
         for (int i = 0; i < n; i++) {  // Fix start index
@@ -17,5 +43,7 @@ class Solution {
             }
         }
         return maxLength;
+        
+        */
     }
 }
