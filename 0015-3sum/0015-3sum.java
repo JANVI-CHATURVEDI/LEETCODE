@@ -7,11 +7,9 @@ class Solution {
 
         
        for(int i=0;i<nums.length-2;i++){
-         if(i>0){
-             if (nums[i] == nums[i - 1]){                  // skip to avoid duplicate triplets.
-           continue;
-        }
-         }
+         if (i > 0 && nums[i] == nums[i - 1]) continue;  // Avoid duplicate triplets
+         if (nums[i] > 0) break;  // Early exit
+
        
 
         int x=- nums[i];
