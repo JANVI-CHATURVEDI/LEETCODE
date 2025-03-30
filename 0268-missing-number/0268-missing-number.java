@@ -1,9 +1,7 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n=nums.length,tsum=0,sum=0;
-     for(int i=1;i<=n;i++){
-        tsum+=i;
-     }  
+     tsum=n*(n+1)/2; 
 
      for(int i=0;i<n;i++){
         sum+=nums[i];
