@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
