@@ -1,41 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-        char[] chars = s.trim().toCharArray();
-        int n = chars.length;
 
-        // Reverse the entire string
-        reverse(chars, 0, n - 1);
+       int n= s.length();
+       StringBuilder word=new StringBuilder();
+       StringBuilder ans=new StringBuilder();
 
-        // Reverse each word and handle multiple consecutive spaces
-        int start = 0, end = 0;
-        for (int i = 0; i <= n; i++) {
-            if (i == n || chars[i] == ' ') {
-                reverse(chars, start, end - 1);
-                start = i + 1;
-                end = start;
-            } else {
-                end++;
+       for(int i=n-1;i>=0;i--){
+        char ch= s.charAt(i);
+        if(ch!=' '){
+            word.insert(0,ch);
+
+        }
+        else if(word.length()>0){
+            if(ans.length()>0){
+                ans.append(" ");
             }
+            ans.append(word);
+             word.setLength(0);
         }
+       }
 
-        // Remove extra spaces
-        int writeIndex = 0;
-        for (int i = 0; i < n; i++) {
-            if (i == 0 || chars[i] != ' ' || chars[i - 1] != ' ') {
-                chars[writeIndex++] = chars[i];
+       if(word.length()>0){
+         if(ans.length()>0){
+                ans.append(" ");
             }
-        }
-
-        return new String(chars, 0, writeIndex);
-    }
-
-    private void reverse(char[] chars, int start, int end) {
-        while (start < end) {
-            char temp = chars[start];
-            chars[start] = chars[end];
-            chars[end] = temp;
-            start++;
-            end--; 
-        }
+            ans.append(word);
+       }
+        return ans.toString();
     }
 }
