@@ -1,31 +1,48 @@
 class Solution {
     public String reverseWords(String s) {
+    
+    char[] chars = s.trim().toCharArray();
+    int n = chars.length;
+     
+     reverse(chars,0,n-1);
 
-       int n= s.length();
-       StringBuilder word=new StringBuilder();
-       StringBuilder ans=new StringBuilder();
+     int writeindex=0;
+     int start=0;
+     
+     for(int end=0; end<=n ; end ++){
+        if( end == n || chars[end]==' '){
+            reverse(chars , start , end-1);
 
-       for(int i=n-1;i>=0;i--){
-        char ch= s.charAt(i);
-        if(ch!=' '){
-            word.insert(0,ch);
+            for(int i=start ;i<end;i++){
+                chars[writeindex++]= chars[i];
 
-        }
-        else if(word.length()>0){
-            if(ans.length()>0){
-                ans.append(" ");
             }
-            ans.append(word);
-             word.setLength(0);
-        }
-       }
 
-       if(word.length()>0){
-         if(ans.length()>0){
-                ans.append(" ");
+            if(end<n){
+               chars[writeindex++]=' ';
             }
-            ans.append(word);
-       }
-        return ans.toString();
+
+            // Skip extra spaces between words
+                while (end + 1 < n && chars[end + 1] == ' ') {
+                    end++;
+                }
+
+            start=end+1;
+      }
+     }
+
+       
+      return new String(chars,0,writeindex);
+    
+    }
+
+    public void reverse(char[] chars , int left , int right){
+        while(left<right){
+            char temp = chars[left];
+            chars[left] = chars[right];
+            chars[right]=temp;
+            left++;
+            right--;
+        }
     }
 }
