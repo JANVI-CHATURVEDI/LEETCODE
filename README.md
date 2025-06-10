@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -253,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
