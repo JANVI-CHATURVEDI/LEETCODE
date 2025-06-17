@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
