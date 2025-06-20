@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
