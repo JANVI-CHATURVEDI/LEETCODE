@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
