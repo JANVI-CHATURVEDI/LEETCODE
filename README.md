@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
@@ -296,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
