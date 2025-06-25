@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Union Find
 |  |
 | ------- |
