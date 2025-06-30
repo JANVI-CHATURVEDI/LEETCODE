@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
