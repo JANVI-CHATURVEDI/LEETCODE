@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -375,5 +378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
