@@ -14,8 +14,10 @@
  * }
  */
 class Solution {
+
+    int good=0;
     public int goodNodes(TreeNode root) {
-        int i=0;
+      
 
        int ans = match(root , root.val);
       
@@ -27,7 +29,7 @@ class Solution {
          
           if (root == null) return 0;
 
-          int good=0;
+          
 
           if(root.val >= maxsofar){
             good++;
@@ -37,8 +39,8 @@ class Solution {
 
         int newMax = Math.max(maxsofar, root.val);
 
-        good += match( root.left ,  newMax);
-        good += match(root.right , newMax);
+        match( root.left ,  newMax);
+         match(root.right , newMax);
 
           return good;
     }
