@@ -20,6 +20,7 @@ class Solution {
              
         }
 
-          return max;
+         return max == nums.length ? max - 1 : max;
+
     }
 }
