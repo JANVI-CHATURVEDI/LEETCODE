@@ -25,10 +25,6 @@ class Solution {
            newInterval[0] = Math.max(interval[0] , newInterval[0]);
            newInterval[1] = Math.min(interval[1] , newInterval[1]);
            
-           if(interval[0] > newInterval[1] ){   
-           newInterval=interval;
-           shots++;
-        }
         }
 
      }   
