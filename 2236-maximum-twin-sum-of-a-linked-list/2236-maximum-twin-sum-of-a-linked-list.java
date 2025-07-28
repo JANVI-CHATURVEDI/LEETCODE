@@ -10,55 +10,45 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-       
+         int max = 0 , sum =0 ;
+        ListNode right = mid(head);
 
-        if(head.next.next == null){
-            return head.val + head.next.val;
-        }
-      ListNode mid= middleNode (head);
-      ListNode last = reverseList (mid);
-       ListNode first=head ;ListNode second =last;
-       int fsum =0 ;int ssum=0;int max=0,mmax=0;
-       
-       while(  second != null){
-            fsum = first.val;
-            ssum = second.val;
+       ListNode righthalf = reverse(right);
+       ListNode lefthalf = head;
 
-            first = first.next;
-            second = second.next;
-
-             max =  Math.max(max , fsum+ssum);
-            
+       while(righthalf != null && lefthalf != null){
+        sum = lefthalf.val + righthalf.val ;
+        max = Math.max(max , sum);
+        sum = 0;
+        lefthalf = lefthalf.next;
+        righthalf = righthalf.next;
        }
-         
       
-       return max;
+      return max ;
     }
+    public ListNode reverse (ListNode head){
+      ListNode cur = head;
+      ListNode prev = null;
 
-     public ListNode middleNode(ListNode head) {
+      while(cur != null){
+        ListNode temp = cur.next;
+        cur.next = prev;
+        prev = cur;
+        cur = temp;
+
+      }
+
+      return prev;
+    }
+    public ListNode mid(ListNode head){
         ListNode slow = head;
         ListNode fast = head;
 
-        while(fast != null && fast.next != null){
+        while( fast.next.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }
 
         return slow;
-    }
-
-
-    public ListNode reverseList(ListNode head) {
-       ListNode cur= head;
-        ListNode prev= null;
-
-        while(cur!= null){
-            ListNode temp= cur.next;
-            cur.next= prev;
-             prev= cur;
-             cur= temp;
-
-        }
-        return prev;
     }
 }
