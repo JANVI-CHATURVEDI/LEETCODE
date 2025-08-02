@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
