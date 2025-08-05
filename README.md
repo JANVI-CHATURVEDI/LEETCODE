@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
