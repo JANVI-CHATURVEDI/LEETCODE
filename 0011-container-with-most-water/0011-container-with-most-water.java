@@ -1,20 +1,21 @@
 class Solution {
     public int maxArea(int[] height) {
-        int n=height.length; int marea=0;
-        int left =0;
-        int right=n-1;
+        int n = height.length;
+        int left = 0 , right = n-1 , maxarea = 0  ;
 
-        while(left < right){
-          int area = (right - left)* Math.min(height[left] , height[right]);
+        while(left < right){    
+            int area = (right - left) * Math.min(height[left] , height[right]);
+            maxarea = Math.max(area , maxarea);
+            
+            if(height[left] < height[right]){
+               left ++;
+            }
+            else{
+                right --;
+            }
 
-          if(area > marea) marea=area;
+        }
 
-          if(height[left] < height[right]) left++;
-          else right--;
-
-
-           }
-
-           return marea;
+        return maxarea;
     }
 }
