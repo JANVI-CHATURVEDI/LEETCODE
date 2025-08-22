@@ -1,49 +1,36 @@
 class Solution {
     public String reverseVowels(String s) {
-         char[] chars = s.toCharArray(); 
-      int n=chars.length; int leftv = -1 , rightv=-1;
-
-      int left = 0 , right=n-1;
-      while(left<=right){
+        int n = s.length();
         
-        if( left<=right && isVowel(chars[left])){
-           leftv=left;
+        Set<Character> vowels = new HashSet<>();
+        for (char c : "aeiouAEIOU".toCharArray()) {
+            vowels.add(c);
         }
-        else{
-            if( left<=right){
-               left++;
+
+        
+        StringBuilder sb = new StringBuilder(s);
+        int l = 0, r = sb.length() - 1;
+
+        while(l < r ){
+
+            while (l < r && !vowels.contains(sb.charAt(l))) {
+                l++;
             }
-        }
 
-         if( left<=right && isVowel(chars[right])){
-           rightv=right;
-        }
-        else{
-            if( left<=right){
-               right--;
+            while (l < r && !vowels.contains(sb.charAt(r))) {
+                r--;
             }
-           
+
+
+            char temp = sb.charAt(l);
+            sb.setCharAt(l , sb.charAt(r));
+            sb.setCharAt(r, temp);
+            
+            l++;
+            r--;
+
+
         }
-
-
-        if(leftv != -1 && rightv !=-1){
-            char temp=chars[leftv];
-            chars[leftv] = chars[rightv];
-            chars[rightv]=temp;
-            left++;
-            right--;
-            leftv=-1;
-            rightv=-1;
-        }
-      }
-
-      return new String(chars);
-
+       return sb.toString();
     }
-
-    public boolean isVowel(char ch) {
-    ch = Character.toLowerCase(ch); // makes it lowercase
-    return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
-}
-
 }
