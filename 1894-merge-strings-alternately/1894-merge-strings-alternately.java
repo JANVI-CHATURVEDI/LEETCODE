@@ -12,7 +12,7 @@ class Solution {
               sb.append(word1.charAt(l1));
            }
 
-           if(l2 < n1){
+           if(l2 < n2){
               sb.append(word2.charAt(l2));
            }
 
