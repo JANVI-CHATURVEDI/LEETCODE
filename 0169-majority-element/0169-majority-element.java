@@ -1,19 +1,28 @@
 class Solution {
     public int majorityElement(int[] nums) {
-           int candidate = 0, count = 0;
+        int n = nums.length; int count = 1 ; int j = 0 ;
+       
+       int candidate = nums[0];
 
-        // Step 1: Find potential majority candidate
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
-            }
-            if (num == candidate) {
-                count++;  // Increase count if same as candidate
-            } else {
-                count--;  // Decrease count if different
-            }
-        }
-        return candidate;
+       for(int i = 1 ; i < n ; i ++){
+
+           
+           if(nums[i] == candidate){
+                count ++;
+                j = i ;
+           }
+           else{
+               count--;
+
+               if(count == 0 ){
+                  candidate = nums[i];
+                  count++;
+                  j = i;
+               }
+           }
+       }
+
+       return nums[j];
+
     }
-
 }
