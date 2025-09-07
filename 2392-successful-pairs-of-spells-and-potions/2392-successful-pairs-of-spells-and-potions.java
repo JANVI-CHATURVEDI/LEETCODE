@@ -1,7 +1,7 @@
 class Solution {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
         int n1 = spells.length , n2 = potions.length ;
-        List<Integer> list = new ArrayList<>();
+        int[] res = new int[n1];
         Arrays.sort(potions);
 
         for(int i = 0 ; i < n1 ; i ++){
@@ -29,14 +29,11 @@ class Solution {
 
             }
 
-            list.add(n2 - idx);
+            res[i] = n2 - idx;
            
          
         }  
 
-        int[] arr = list.stream().mapToInt(i -> i).toArray();
-
-         return arr;  
-
+        return res;
     }
 }
