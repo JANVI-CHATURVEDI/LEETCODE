@@ -10,29 +10,32 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode small = new ListNode();
-        ListNode smallp=small;
-        ListNode large = new ListNode();
-        ListNode largep=large;
+
+        ListNode less = new ListNode(0);
+        ListNode great = new ListNode(0);
+
+        ListNode lessh = less ;
+        ListNode greath = great ;
 
         while(head != null){
-              
-              if(head.val < x){
-                  smallp.next=head;
-                  smallp=smallp.next;
-              }
-              else{
-                largep.next=head;
-                largep=largep.next;
-              }
+             
+             if(head.val < x){
+                lessh.next = head ;
+                lessh = lessh.next ;
 
-              head=head.next;
+             }
+             else{
+                greath.next = head;
+                greath = greath.next ; 
+             }
 
+             head = head.next ;
         }
 
-        smallp.next=large.next;
-        largep.next=null;
+        lessh.next = great.next ;
+        greath.next = null ;
 
-        return small.next;
+        return less.next ;
+        
     }
 }
