@@ -9,43 +9,41 @@
  * }
  */
 class Solution {
-   public void reorderList(ListNode head) {
-    if (head == null || head.next == null) return;
+    public void reorderList(ListNode head) {
 
-    
-    ListNode slow = head, fast = head;
-    while (fast != null && fast.next != null) {
-        slow = slow.next;
-        fast = fast.next.next;
+        ListNode slow = head ;
+        ListNode fast = head ;
+
+        while( fast != null && fast.next != null ){
+            slow = slow.next ;
+            fast = fast.next.next ;
+        }
+        
+        ListNode curr = slow.next ;
+        slow.next = null;
+        ListNode prev = null ;
+
+        while(curr != null ){
+            ListNode temp = curr.next ;
+            curr.next = prev ;
+            prev = curr ;
+            curr = temp ;
+        }
+
+        ListNode first = head ;
+        ListNode second = prev ;
+
+        while(second != null ){
+            ListNode temp1 = first.next ;
+            ListNode temp2 = second.next ;
+
+            first.next = second ;
+            second.next = temp1 ;
+
+            first = temp1 ;
+            second = temp2 ;
+        }
+
+
     }
-
-    
-    ListNode second = reverse(slow.next);
-    slow.next = null;
-
-    
-    ListNode first = head;
-    while (second != null) {
-        ListNode temp1 = first.next;
-        ListNode temp2 = second.next;
-
-        first.next = second;
-        second.next = temp1;
-
-        first = temp1;
-        second = temp2;
-    }
-}
-
-private ListNode reverse(ListNode head) {
-    ListNode prev = null, curr = head;
-    while (curr != null) {
-        ListNode next = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = next;
-    }
-    return prev;
-}
-
 }
