@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
