@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 ## Enumeration
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -477,4 +482,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
