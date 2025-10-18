@@ -10,27 +10,30 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        return addHelper(l1, l2, 0);
+       ListNode node = helper(l1 , l2 , 0) ;
+
+       return node ;
     }
 
-    private ListNode addHelper(ListNode l1, ListNode l2, int carry) {
-        // base case: both lists are null and no carry
-        if(l1 == null && l2 == null && carry == 0) return null;
+    public ListNode helper( ListNode l1, ListNode l2 , int carry ) {
 
-        int sum = carry;
-        if(l1 != null) sum += l1.val;
-        if(l2 != null) sum += l2.val;
+        if(l1 == null && l2 == null && carry == 0 ) return null ;
+        
+        int sum = 0 ;
+        if (l1 != null ) sum += l1.val ;
+        if (l2 != null ) sum += l2.val ;
+        sum += carry ;
 
-        ListNode node = new ListNode(sum % 10); // current digit
-        carry = sum / 10; // carry for next recursion
+        ListNode node = new ListNode( sum % 10 ) ;
+        carry = sum / 10 ;
 
-        // recursive call for next nodes
-        node.next = addHelper(
-            (l1 != null) ? l1.next : null,
-            (l2 != null) ? l2.next : null,
-            carry
-        );
+        node.next = helper( (l1 != null) ? l1.next : null,
+                            (l2 != null) ? l2.next : null ,
+                            carry
+                           ) ;
 
-        return node;
+        return node ;
+
     }
+
 }
