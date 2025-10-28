@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
+| [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Greedy
 |  |
 | ------- |
