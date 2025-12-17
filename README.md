@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
