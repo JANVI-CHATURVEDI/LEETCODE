@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0216-combination-sum-iii) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
