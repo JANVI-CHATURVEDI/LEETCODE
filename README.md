@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Enumeration
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
