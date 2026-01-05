@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
