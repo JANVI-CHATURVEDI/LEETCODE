@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2227-sum-of-subarray-ranges](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
