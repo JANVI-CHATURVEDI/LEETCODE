@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
