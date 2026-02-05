@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
