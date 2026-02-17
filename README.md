@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0401-binary-watch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Simulation
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Greedy
 |  |
