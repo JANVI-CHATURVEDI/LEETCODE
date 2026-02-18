@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 ## Simulation
