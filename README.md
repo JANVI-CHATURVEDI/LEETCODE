@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
