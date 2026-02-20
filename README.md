@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0763-special-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0763-special-binary-string) |
 | [0948-sort-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0763-special-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0763-special-binary-string) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0763-special-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0763-special-binary-string) |
 | [0948-sort-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
