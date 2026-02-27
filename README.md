@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -644,4 +647,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
