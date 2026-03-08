@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0800-letter-case-permutation) |
+| [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
