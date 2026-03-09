@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
