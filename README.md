@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Trie
 |  |
 | ------- |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
 |  |
 | ------- |
