@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0079-word-search) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0649-dota2-senate) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Trie
