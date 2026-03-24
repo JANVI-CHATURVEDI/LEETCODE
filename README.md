@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
+| [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Two Pointers
