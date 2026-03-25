@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3849-equal-sum-grid-partition-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3849-equal-sum-grid-partition-i) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0204-count-primes) |
+| [3849-equal-sum-grid-partition-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3849-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
