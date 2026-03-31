@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0812-rotate-string) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
 | ------- |
