@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2107-find-unique-binary-string) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3770-lexicographically-smallest-generated-string) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
