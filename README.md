@@ -720,4 +720,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
