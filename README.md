@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0457-circular-array-loop](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0457-circular-array-loop](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0443-string-compression) |
+| [0457-circular-array-loop](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -739,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
