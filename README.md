@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0283-move-zeroes) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JANVICHATURVEDI/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -731,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
