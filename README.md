@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/JANVI-CHATURVEDI/LEETCODE/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
